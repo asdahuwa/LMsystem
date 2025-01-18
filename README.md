@@ -4,13 +4,22 @@ This project is a comprehensive Library Management System implemented in C++. It
 Features
 
 Book Management: Add, search, and manage books in the library.
+
 Patron Management: Add, search, and manage library patrons.
+
 Borrow and Return: Borrow and return books with proper record-keeping.
+
 Overdue Management: Identify and manage overdue books.
+
 Reports: Generate detailed library reports.
+
 Transaction History: View transaction history for patrons.
 
+
 Technologies Used
+
 C++: Core programming language used for implementation.
+
 Vectors: Used for dynamic data storage and management.
+
 Dev-C++: IDE used for development and debugging.
